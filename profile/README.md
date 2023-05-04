@@ -9,8 +9,8 @@ The Obsidian TTRPG Community Maintains multiple goals.
 
 - Encouraging the collection and categorization of data shared on **[Obsidian Discord](https://discord.gg/obsidianmd)** that would otherwise become lost and forgotten over time. The primary repository for these miscellaneous elements is the [Obsidian TTRPG Share](https://github.com/Obsidian-TTRPG-Community/ObsidianTTRPGShare)
 - Act as an incubator for refining those elements, so they may be added to the **[Obsidian TTRPG Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+TTRPG)** or other relevant spaces.
-3. Serve as a space for identifying and growing in-need TTRPG communities who lack adequate resources within the Obsidian Community through our ongoing SRD/Starter Vault Conversion Project.
-4. Maintain a master list of quality resources for TTRPG players and Game-Masters that coordinate well with Obsidian.
+- Serve as a space for identifying and growing in-need TTRPG communities who lack adequate resources within the Obsidian Community through our ongoing SRD/Starter Vault Conversion Project.
+- Maintain a master list of quality resources for TTRPG players and Game-Masters that coordinate well with Obsidian.
 
 ## Want to Help Out, Or Lurk? 🫶
 
