@@ -3,7 +3,7 @@
 ## About The Obsidian TTRPG Community 🎲
 This organization exists as a community for Obsidian TTRPG players, game-masters, and enthusists alike. We're here to be the one-stop shop for you to find many of the resources you need to augment your TTRPG configuration within Obsidian.
 
-### Goals
+### Goals 🥅
 
 The Obsidian TTRPG Community Maintains multiple goals.
 
