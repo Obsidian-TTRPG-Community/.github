@@ -26,3 +26,5 @@ You can find us on:
 - [Official Obsidian Discord - #Tabletop-Games](https://discord.gg/obsidianmd) channel.
 - [Obsidian TTRPG Community Discord](https://discord.gg/Zpmr37Uv)
 
+## Legal
+- The [Obsidian](https://obsidian.md/) icon, was obtained from [this thread](https://forum.obsidian.md/t/is-there-a-svg-icon-of-obsidian/20075/4) and is © 2023 [Obsidian](http://obsidian.md/ "Obsidian"). It was used as a part of inspiration for the current community icon. Its use is protected under **[17 U.S. Code § 107](https://www.copyright.gov/title17/92chap1.html#107)** and is not intended to imply that the Obsidian TTRPG Community is an official part of Obsidian's branding. 
