@@ -35,4 +35,5 @@ You can find us on:
 
 ## Legal
 - The [Obsidian](https://obsidian.md/) icon, was obtained from [this thread](https://forum.obsidian.md/t/is-there-a-svg-icon-of-obsidian/20075/4) and is © 2023 [Obsidian](http://obsidian.md/ "Obsidian"). It was used as a part of inspiration for the current community icon. Its use is protected under **[17 U.S. Code § 107](https://www.copyright.gov/title17/92chap1.html#107)** and is not intended to imply that the Obsidian TTRPG Community is an official part of Obsidian's branding. 
+- Gemmy is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) from @ericaxu at [Gemmy](https://github.com/ericaxu/Gemmy).
 - Additional Legal Notices included as needed Per Repo
