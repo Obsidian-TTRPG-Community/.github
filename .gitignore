@@ -1,0 +1,15 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore Obsidian Files
+/.obsidian/
+/.obsidian/
+/.trash/
+
+# Ignore Certain Folders
+
+Other/
+
+# Coding Stuff
+/.vscode/
+/.idea/
