@@ -1,8 +1,7 @@
 name: Bug Report
-about: File a bug report
+description: File a bug report
 labels: debugging charm
 title: "[Bug]: YOUR TITLE HERE"
-
 body:
   - type: markdown
     attributes:
