@@ -1,0 +1,43 @@
+name: Bug Report
+about: File a bug report
+labels: debugging charm
+title: "[Bug]: YOUR TITLE HERE"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Before you submit this bug report, please make sure to:**
+        - Use the latest version of the repository.
+        - Check for any known issues.
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should have happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Current Behavior
+      description: What happened instead? Please provide details and include screenshots if possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction Steps
+      description: |
+        Please provide clear and detailed steps to reproduce the issue.
+        If applicable, include any code snippets as text, not screenshots.
+      placeholder: |
+        Example:
+        1. Open the software.
+        2. Go to '...'
+        3. Click on '...'
+    validations:
+      required: true
