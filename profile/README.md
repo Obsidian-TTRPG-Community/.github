@@ -1,4 +1,4 @@
-## Hello! Welcome to the [Obsidian](http://obsidian.md) TTRPG Community. We're glad to have you. 👋
+![image](https://github.com/user-attachments/assets/477735d1-1cde-49b9-a448-73632b59d76c)## Hello! Welcome to the [Obsidian](http://obsidian.md) TTRPG Community. We're glad to have you. 👋
 
 ## About The Obsidian TTRPG Community 🎲
 This organization exists as a community for Obsidian TTRPG players, game-masters, and enthusists alike. We're here to be the one-stop shop for you to find many of the resources you need to augment your TTRPG configuration within Obsidian. 
@@ -31,7 +31,7 @@ Those vaults would be best kept private in your own private repo.
 
 You can find us on:
 - [Official Obsidian Discord - #Tabletop-Games](https://discord.gg/obsidianmd) channel.
-- [Obsidian TTRPG Community Discord](https://discord.gg/Zpmr37Uv)
+- [Obsidian TTRPG Community Discord](https://discord.gg/CdM9UCJdwU)
 
 ## Like Buying Coffee?
 
